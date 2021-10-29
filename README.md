@@ -6,5 +6,5 @@ win + r
 type %appdata%
 click .minecraft
 click saves
-paste the downloaded folder
+paste the downloaded folder m
 note: only on minecraft 1.8
